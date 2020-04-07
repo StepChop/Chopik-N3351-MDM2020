@@ -76,4 +76,4 @@ for line in mas:
         # print("IN_CALLS:", calls_sum)
         sum += calls_sum
 
-print("TOTAL_SUM:", round(sum, 2))
+print(round(sum, 2))
